@@ -5,8 +5,8 @@
 
 ### Team N: 
 
-* Student 1: name,surname,id
-* Student 2: name,surname,id
+* Student 1: Maxmudbek,Muzaffarov,SE14161
+* Student 2: Yunus,Isokhonov,SE14335
 * etc...
 
 ![image](https://github.com/user-attachments/assets/9f94b187-9fac-4146-b95c-6dae9a4684d9)
